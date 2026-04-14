@@ -9,9 +9,7 @@ class Codec:
         encoded = ""
 
         for string in strs:
-            encoded += str(len(string)) + ":"
-            encoded += string
-
+            encoded += str(len(string)) + ":" + string
         return encoded
 
     def decode(self, s):
@@ -23,6 +21,7 @@ class Codec:
         decoded = []
         cnt, i = 0, 0
         temp = ""
+
         while i < len(s):
             if cnt == 0:
                 temp = ""
@@ -30,7 +29,6 @@ class Codec:
                     cnt *= 10
                     cnt += int(s[i])
                     i += 1
-
             else:
                 temp += s[i]
                 cnt -= 1
