@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0271-encode-and-decode-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
