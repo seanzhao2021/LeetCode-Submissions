@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0271-encode-and-decode-strings) |
 ## Hash Table
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
