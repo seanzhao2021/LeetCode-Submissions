@@ -11,8 +11,6 @@ class Solution(object):
         for i in range(len(edges)):
             adj_list[edges[i][0]].append(edges[i][1])
             adj_list[edges[i][1]].append(edges[i][0])
-        
-        print(adj_list)
 
         visited = set()
 
