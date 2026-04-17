@@ -37,4 +37,4 @@ class Solution(object):
 
         
         
-        return dfs(0,0) and len(visited) == n
+        return dfs(0,None) and len(visited) == n
