@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0261-graph-valid-tree](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0261-graph-valid-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -66,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0261-graph-valid-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0261-graph-valid-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0261-graph-valid-tree) |
 <!---LeetCode Topics End-->
