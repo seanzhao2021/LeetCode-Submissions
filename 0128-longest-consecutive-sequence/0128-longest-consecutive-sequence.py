@@ -4,10 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        hashSet = set()
+        hashSet = set(nums)
 
-        for element in nums:
-            hashSet.add(element)
+        # for element in nums:
+        #     hashSet.add(element)
 
         ans = 0
 
