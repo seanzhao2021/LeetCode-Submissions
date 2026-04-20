@@ -21,7 +21,6 @@ class Solution(object):
 
 
         def isValid(sMap, tMap):
-
             for key in tMap:
                 if key in sMap and sMap[key] >= tMap[key]:
                     continue
@@ -30,7 +29,6 @@ class Solution(object):
             return True
 
         while r < len(s):
-
             if s[r] not in sMap:
                 sMap[s[r]] = 1
             else:
