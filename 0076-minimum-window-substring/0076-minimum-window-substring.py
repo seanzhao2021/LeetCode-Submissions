@@ -28,20 +28,28 @@ class Solution(object):
                     return False
             return True
 
+        need = len(tMap)
+        have = 0
+
         while r < len(s):
             if s[r] not in sMap:
                 sMap[s[r]] = 1
             else:
                 sMap[s[r]] += 1
             
+            if s[r] in tMap and sMap[s[r]] == tMap[s[r]]:
+                have += 1
+            
             #if current substring is valid
             #shrink left window until no longer valid?
-            while isValid(sMap, tMap):
+            while have == need:
                 #save ans_len and ans
                 if r - l + 1 < ans_len:
                     ans_len = r - l + 1
                     ans = s[l : r + 1]
                 sMap[s[l]] -= 1
+                if s[l] in tMap and sMap[s[l]] < tMap[s[l]]:
+                    have -= 1
                 l += 1
             
             r += 1
