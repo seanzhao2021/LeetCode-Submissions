@@ -19,15 +19,6 @@ class Solution(object):
             else:
                 tMap[char] += 1
 
-
-        def isValid(sMap, tMap):
-            for key in tMap:
-                if key in sMap and sMap[key] >= tMap[key]:
-                    continue
-                else:
-                    return False
-            return True
-
         need = len(tMap)
         have = 0
 
