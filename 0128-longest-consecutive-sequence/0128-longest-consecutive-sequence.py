@@ -7,8 +7,7 @@ class Solution(object):
         hashSet = set()
 
         for element in nums:
-            if element not in hashSet:
-                hashSet.add(element)
+            hashSet.add(element)
 
         ans = 0
 
