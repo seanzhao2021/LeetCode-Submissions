@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 ## Linked List
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0271-encode-and-decode-strings](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0271-encode-and-decode-strings) |
 ## Design
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0261-graph-valid-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
