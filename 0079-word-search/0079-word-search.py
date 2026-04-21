@@ -44,6 +44,6 @@ class Solution(object):
         
         for i in range(len(board)):
             for j in range(len(board[0])):
-                if board[i][j] == word[0] and dfs(i, j, 0):
+                if dfs(i, j, 0):
                     return True
         return False
