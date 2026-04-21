@@ -14,7 +14,8 @@ class Solution(object):
                 return False
             
             #if node is visited
-            if (i, j) in visited:
+            #if (i, j) in visited:
+            if board[i][j] == "#":
                 return False
             
             #if idx got to the very end
@@ -26,7 +27,9 @@ class Solution(object):
                 return False
 
             #add node to visited
-            visited.add((i, j))
+            #visited.add((i, j))
+            temp = board[i][j]
+            board[i][j] = "#"
 
             #dfs all neighbors
             #if dfs or dfs or dfs or dfs
@@ -34,7 +37,8 @@ class Solution(object):
                 return True
 
             #pop node from visited
-            visited.remove((i, j))
+            #visited.remove((i, j))
+            board[i][j] = temp
 
             return False
         
