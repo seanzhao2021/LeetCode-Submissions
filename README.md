@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0079-word-search](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0271-encode-and-decode-strings](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0271-encode-and-decode-strings) |
 ## Design
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0261-graph-valid-tree](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0261-graph-valid-tree) |
 ## Binary Search Tree
@@ -88,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
