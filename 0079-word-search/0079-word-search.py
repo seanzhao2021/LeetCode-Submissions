@@ -5,7 +5,8 @@ class Solution(object):
         :type word: str
         :rtype: bool
         """
-        visited = set()
+        ROW = len(board)
+        COL = len(board[0])
         def dfs(i, j, idx):
             #if i or j out of bounds
             if i >= len(board) or i < 0:
@@ -42,8 +43,19 @@ class Solution(object):
 
             return False
         
-        for i in range(len(board)):
-            for j in range(len(board[0])):
+        first_cnt = 0
+        last_cnt = 0
+        for i in range(ROW):
+            for j in range(COL):
+                if board[i][j] == word[0]: first_cnt += 1
+                if board[i][j] == word[-1] : last_cnt += 1
+        
+        #lets reverse string is last letter is rarer than first letter
+        if last_cnt < first_cnt:
+            word[::-1]
+
+        for i in range(ROW):
+            for j in range(COL):
                 if dfs(i, j, 0):
                     return True
         return False
