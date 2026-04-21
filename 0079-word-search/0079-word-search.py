@@ -43,16 +43,6 @@ class Solution(object):
 
             return False
         
-        first_cnt = 0
-        last_cnt = 0
-        for i in range(ROW):
-            for j in range(COL):
-                if board[i][j] == word[0]: first_cnt += 1
-                if board[i][j] == word[-1] : last_cnt += 1
-        
-        #lets reverse string is last letter is rarer than first letter
-        if last_cnt < first_cnt:
-            word[::-1]
 
         for i in range(ROW):
             for j in range(COL):
