@@ -7,10 +7,6 @@ class Solution(object):
         """
         visited = set()
         def dfs(i, j, idx):
-            #if idx got to the very end
-            if idx >= len(word):
-                return True
-
             #if i or j out of bounds
             if i >= len(board) or i < 0:
                 return False
@@ -20,6 +16,10 @@ class Solution(object):
             #if node is visited
             if (i, j) in visited:
                 return False
+            
+            #if idx got to the very end
+            if idx == len(word) - 1 and board[i][j] == word[idx]:
+                return True
             
             #is current letter matching with word
             if board[i][j] != word[idx]:
