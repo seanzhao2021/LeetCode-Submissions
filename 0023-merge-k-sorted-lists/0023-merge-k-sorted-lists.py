@@ -48,9 +48,6 @@ class Solution(object):
                     merged.append(merge(lists[i], lists[i + 1]))
             lists = merged
 
-
-
-        
         if not lists:
             return None
         else:
