@@ -40,8 +40,6 @@ class Solution(object):
         while len(lists) > 1:
             merged = []
             for i in range(0, len(lists), 2):
-                print(i)
-                print(i + 1)
                 if i + 1 >= len(lists):
                     merged.append(lists[i])
                 else:
