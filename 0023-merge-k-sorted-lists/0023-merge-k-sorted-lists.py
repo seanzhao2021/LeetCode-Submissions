@@ -36,14 +36,19 @@ class Solution(object):
             
             return head.next
 
+        
+        while len(lists) > 1:
+            merged = []
+            for i in range(0, len(lists), 2):
+                print(i)
+                print(i + 1)
+                if i + 1 >= len(lists):
+                    merged.append(lists[i])
+                else:
+                    merged.append(merge(lists[i], lists[i + 1]))
+            lists = merged
 
 
-        #for i in range len(list) - 1 (3 lists means we run twice)
-        for i in range(len(lists) - 1):
-            #merge(i, i + 1)
-            temp = merge(lists[i], lists[i + 1])
-            #make i + 1 point to new merged list node
-            lists[i + 1] = temp
 
         
         if not lists:
