@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0271-encode-and-decode-strings) |
+| [0322-coin-change](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0261-graph-valid-tree) |
+| [0322-coin-change](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Union-Find
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
