@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0271-encode-and-decode-strings) |
 | [0322-coin-change](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0322-coin-change) |
@@ -118,5 +119,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
