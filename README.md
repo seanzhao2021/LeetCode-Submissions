@@ -121,4 +121,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
