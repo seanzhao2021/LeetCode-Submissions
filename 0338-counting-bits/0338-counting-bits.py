@@ -13,16 +13,11 @@ class Solution(object):
             ans[1] = 1
 
         for i in range(n + 1):
-            # if i == 0:
-            #     ans[i] = 0
-            # elif i == power:
-            #     ans[i] = 1
             if i == power * 2:
                 ans[i] = 1
                 power *= 2
             elif i > power:
-                if ans[i - power] is not None:
-                    ans[i] = ans[i - power] + 1
+                ans[i] = ans[i - power] + 1
         
         return ans
 
