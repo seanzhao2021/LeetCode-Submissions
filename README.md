@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0190-reverse-bits](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0190-reverse-bits) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -125,5 +126,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/seanzhao2021/LeetCode-Submissions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
